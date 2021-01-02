@@ -1,0 +1,8 @@
+---
+drone_runner_service_name: 'runner'
+drone_runner_service_version: '1'
+drone_rpc_host: ''
+drone_rpc_proto: http
+drone_rpc_secret: ''
+drone_rpc_capacity: '1'
+drone_runner_name: runner
